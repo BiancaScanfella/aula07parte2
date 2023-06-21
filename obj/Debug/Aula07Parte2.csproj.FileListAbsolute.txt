@@ -1,0 +1,7 @@
+C:\Users\bianca.ascanfella\source\repos\Aula07Parte2\Aula07Parte2\bin\Debug\Aula07Parte2.exe.config
+C:\Users\bianca.ascanfella\source\repos\Aula07Parte2\Aula07Parte2\bin\Debug\Aula07Parte2.exe
+C:\Users\bianca.ascanfella\source\repos\Aula07Parte2\Aula07Parte2\bin\Debug\Aula07Parte2.pdb
+C:\Users\bianca.ascanfella\source\repos\Aula07Parte2\Aula07Parte2\obj\Debug\Aula07Parte2.csproj.AssemblyReference.cache
+C:\Users\bianca.ascanfella\source\repos\Aula07Parte2\Aula07Parte2\obj\Debug\Aula07Parte2.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ascanfella\source\repos\Aula07Parte2\Aula07Parte2\obj\Debug\Aula07Parte2.exe
+C:\Users\bianca.ascanfella\source\repos\Aula07Parte2\Aula07Parte2\obj\Debug\Aula07Parte2.pdb
